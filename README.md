@@ -21,4 +21,4 @@
 
 보안을 위해 github에는 API키를 포함하지 않아, 디폴트 값 (20도, 맑음)이 출력됩니다.<br/>
 API키가 정상 작동되었을 땐 아래와 같이 도시 이름이 적힌 버튼을 누르면 해당 도시의 날씨 정보가 업데이트 됩니다.<br/>
-![weather_api_demo](https://github.com/saemii-24/project_3/assets/139088277/7502b167-71fd-4e65-a25e-ba7be70ff042)
+![weather_api_demo](https://github.com/saemii-24/project_3/assets/139088277/bf0c701b-753c-4f43-b48a-006223a874f4)
